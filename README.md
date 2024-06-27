@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects that require HTML and CSS skills
 - 📫 How to reach me, connect with me via linkedIn(Vipul Phulwani)
-- My (Codepen)[https://codepen.io/developer_vipul/pens/showcase] profile. 
+- My [Codepen](https://codepen.io/developer_vipul/pens/showcase) profile. 
 ![image](https://user-images.githubusercontent.com/76453258/117506858-e5828b80-afa3-11eb-8875-c0208bd47bcb.png)
 
 
